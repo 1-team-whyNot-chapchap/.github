@@ -51,10 +51,10 @@ flowchart LR
 
 | 팀원 | 담당 영역 |
 | --- | --- |
-| `팀원명 입력` | Auth Service · API Gateway · Customer Service / AI · CD|
-| `팀원명 입력` | Subscription Service · 구독 · 배송지 |
-| `팀원명 입력` | Subscription Service · 결제 · 주문 · 환불 |
-| `팀원명 입력` | Delivery Service |
+| `서창훈` | Auth Service · API Gateway · Customer Service / AI · CD|
+| `이예빈` | Subscription Service · 구독 · 배송지 |
+| `편준현` | Subscription Service · 결제 · 주문 · 환불 |
+| `조은혜` | Delivery Service |
 | **공통** | Frontend · 서비스 연동 · 테스트 · CI|
 
 ---
